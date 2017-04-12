@@ -1,5 +1,6 @@
 
 body {
+
   margin: 0px;
   font-family: "Dosis";
   background-color: rgb(35, 35, 35);
@@ -35,6 +36,7 @@ h3 {
   margin-top: 0px;
 
 }
+
 #dev {
   opacity: 0.65;
   margin-top: 50px;
